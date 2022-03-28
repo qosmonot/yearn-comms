@@ -1,5 +1,9 @@
 # Contributor's guide to Github
 
+*Below is a step-by-step guide to help walk you through the steps on Github to contribute to this repository. If you are having trouble seeing the screenshots below, we suggest you switch your Github appearance settings to Light default.*
+
+In this guide are 2 options to follow. Option 1 might be a little easier, while Option 2 will also help you understand how Git and Github works!
+
 ##### Option 1.a (editing a single file from the Github website)
 You can follow this method for translating one piece of content at a time.
 
