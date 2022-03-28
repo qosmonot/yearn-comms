@@ -1,17 +1,17 @@
 # Contributor's guide to Github
 
-##### Option #1.a (editing a single file from the Github website)
+##### Option 1.a (editing a single file from the Github website)
 You can follow this method for translating one piece of content at a time.
 
 - [1. Adding a new file](#adding-a-new-file)
 - [2. Creating a pull request](#creating-a-pull-request)
 
-##### Option #1.b - *continued* (editing multiple files from the Github website)
+##### Option 1.b - *continued* (editing multiple files from the Github website)
 You can follow this method for editing multiple files at once (such as when adding files, editing typos across multiple files, translation checking and updates after publication, formatting and fixing errors, duplicates etc...)
 
 - [3. Editing your PR branch](#editing-your-pr-branch)
 
-##### Option #2 (creating a fork of the repository)
+##### Option 2 (creating a fork of the repository)
 
 You can follow this alternative method for your translations, and it is recommended you follow this method for editing multiple files at once (such as when adding files, editing typos across multiple files, translation checking and updates after publication, formatting and fixing errors, duplicates etc...)
 
@@ -21,7 +21,7 @@ You can follow this alternative method for your translations, and it is recommen
 
 ---
 
-## Option #1.a (editing files from the Github website)
+## Option 1.a (editing files from the Github website)
 
 You can follow this method for translating one piece of content at a time.
 
@@ -80,7 +80,7 @@ Your edit has now been pushed to the main repository and will be reviewed before
 
 ---
 
-## Option #1.b - *continued* (editing files from the Github website)
+## Option 1.b - *continued* (editing files from the Github website)
 
 If you need to edit more files and would like to keep it within the same PR (such as when adding files, editing typos across multiple files, translation checking and updates after publication, formatting and fixing errors, duplicates etc...).
 
@@ -102,7 +102,7 @@ If you need to edit more files and would like to keep it within the same PR (suc
 
 ---
 
-## Option #2 (creating a fork of the repository)
+## Option 2 (creating a fork of the repository)
 
 You can follow this method for your translations, and it is recommended you follow this method for editing multiple files at once (such as when editing typos across multiple files, translation checking and updates after publication, formatting and fixing errors, duplicates etc...)
 
