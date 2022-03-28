@@ -39,26 +39,26 @@ This allows you to propose changes to the upstream, or original, repository.
 
 4. On the top right, click `Add file`, then `Create new file`
 
-![](image02.png)
+![](images/image02.png)
 
 You will be notified that this has created a new branch for you.
 
-![](image03.png)
+![](images/image03.png)
 
 5. Name your new file `<locale>.md`, with your language. The supported name files are :   
   > `en.md`, `fr.md`, `es.md`, `de.md`, `pt.md`, `el.md`, `tr.md`, `vi.md`, `zh.md`, `hi.md`, `ja.md`, `ru.md` 
 
-![](image04.png)
+![](images/image04.png)
 
 6. Copy and paste en content of the `en.md` file in the body, as a base for the layout of the post, and translate its content. You can get the content from the  `en.md` in the right format by viewing it in plain text:
 
-![](image05.png)
+![](images/image05.png)
 
 7. Within the front matter, at the top of each post:
 	- Contributors should translate the `title:` field in the header of the article
 	- Contributors should fill the `translator:` field with their name/tag
 
-![](image06.png)
+![](images/image06.png)
 
 ---
 
@@ -66,17 +66,17 @@ You will be notified that this has created a new branch for you.
 
 8. Once you have completed your edits/translation, you need to"commit" your changes. You can find a button to do just that at the bottom of the page. Please write a meaningful commit title, and click on `Propose new file`.
 
-![](image07.png)
+![](images/image07.png)
 
 9. You can now propose this to the main repository. You are able to propose a merge of your newly created temporary branch (here `dastronom:patch-100`) to the main repository (here `yearn-comms:english`).
 
 Check that your commit is proper, and click on `Create pull request`.
 
-![](image08.png)
+![](images/image08.png)
 
 Your edit has now been pushed to the main repository and will be reviewed before being merged. It will not appear under the "Pull requests" tab of the main repository.
 
-![](image09.jpg)
+![](images/image09.jpg)
 
 ---
 
@@ -88,15 +88,15 @@ If you need to edit more files and would like to keep it within the same PR (suc
 
 10. From the "Pull requests" tab under the main repository, click on the PR you want to edit/add to:
 
-![](image09.jpg)
+![](images/image09.jpg)
 
 11. From within your PR, under the name of the PR, you can find the temporary branch that was created for you for these edits. Click on the link to your branch.
 
-![](image10.jpg)
+![](images/image10.jpg)
 
 12. You should now be back in your own repository, on a fork of the yearn-comms repository, and in the temporary branch, here "patch-31".
 
-![](image11.jpg)
+![](images/image11.jpg)
 
 13. Any edits you do and commit within this branch will be automatically joined to the PR that this "patch" branch corresponds to. You can check the PR again and you will see the list of commits that the PR covers !
 
@@ -116,7 +116,7 @@ This allows you to propose changes to the upstream, or original, repository.
 
 2. On the top right of the page, click `Fork`, to fork the project (*this will create a copy of a repository, under your account. Forking a repository allows you to freely experiment with changes without affecting the original project.*)
 
-![](image12.jpg)
+![](images/image12.jpg)
 
 3. Fork yearn-comms: 
 
@@ -126,7 +126,7 @@ Select your Github `username`. The fork will be created as `username/yearn-comms
 
 4. You should now have a forked repository under your username on Github.com, such as:
 
-![](image13.jpg)
+![](images/image13.jpg)
 
 5. As the main (upstream) repository develops, your fork will fall behind and out of sync. You can read a message that indicates that, stating: 
 
@@ -136,11 +136,11 @@ Select your Github `username`. The fork will be created as `username/yearn-comms
 
 Before making edits to the files in your fork, please make sure to sync the main branch of your fork (here english branch) with the main repository by clicking `Fetch upstream`, then `Fetch and Merge`.
 
-![](image14.jpg)
+![](images/image14.jpg)
 
 Once the sync is done (after a few seconds), you should see a message stating that your branch is up to date.
 
-![](image15.jpg)
+![](images/image15.jpg)
 
 ---
 
@@ -154,21 +154,21 @@ For typos, or small edits on multiple files, please create a single branch and e
 
 1. Click on the `english` branch, then write the new branch name you would liek to call it, and click on `Create branch: [branch_name] from english`.
 
-![](image16.png)
+![](images/image16.png)
 
 2. You should now see your newly create branch. You will want to make sure you are on the correct branch, and you can start making your edits.
 
-![](image17.png)
+![](images/image17.png)
 
 3. Once you are done with your edits and have committed them, you should see that your branch is now "x commits ahead" of the main repository (yearn/yearn-comms:english). When you are ready, you can click on `Compare & pull request` to send a PR to the main repository.
 
-![](image18.png)
+![](images/image18.png)
 
 4. Here you can see that you are asking to merge your new branch (here branch "newsletter58" in qosmonot's repository) to the base repository (yearn-comms, english branch).
 
 Go ahead and fill out a meaningful **PR title**, **PR description**, then click on `Create pull request`
 
-![](image19.png)
+![](images/image19.png)
 
 ---
 
@@ -178,10 +178,10 @@ Once your PR has been approved, you no longer need to maintain the branch that w
 
 Once more, click on your current branch, then `View all branches`
 
-![](image20.png)
+![](images/image20.png)
 
 and delete from here any branch that you had created for your edits:
 
-![](image21.png)
+![](images/image21.png)
 
 Voila!
