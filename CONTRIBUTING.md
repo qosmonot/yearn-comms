@@ -35,7 +35,7 @@ This allows you to propose changes to the upstream, or original, repository.
 
 3. Inside the folder of the content you want to translate, you will find the original content file (`en.md`), possibly media files (here `cover.png`, `image1.png`,...)
 
-![](image01.png)
+![](images/image01.png)
 
 4. On the top right, click `Add file`, then `Create new file`
 
